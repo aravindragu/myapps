@@ -1,5 +1,9 @@
 filiiiiiiippppp
 jaaaaaaaaa
+<<<<<<< HEAD
 stop it pls
 thanks buddy
 team lunch tomorrow
+=======
+stop it please
+>>>>>>> 9188c0df4d1d9175bd9754c31d057097a1ca3887
